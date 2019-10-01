@@ -1,4 +1,4 @@
-# Read Me
+# [Fictometer](fictometer.com) Training Data
 ### Corpus
 Brown corpus has been used for this work [(Francis and Kucera, 1989)](https://books.google.co.in/books?id=JG_3nQEACAAJ).
 ### Files
