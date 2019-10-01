@@ -1,4 +1,5 @@
 # [Fictometer](http://fictometer.com/) Training Data
+Data used for training in the work [Qureshi, Mohammed Rameez, et al. "A Simple Approach to Classify Fictional and Non-Fictional Genres." Proceedings of the Second Workshop on Storytelling. 2019](https://www.aclweb.org/anthology/W19-3409/).
 ### Corpus
 Brown corpus has been used for this work [(Francis and Kucera, 1989)](https://books.google.co.in/books?id=JG_3nQEACAAJ).
 ### Files
